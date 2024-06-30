@@ -10,4 +10,7 @@ tar -vfx /home/linux/TMA/TMServerAgentLinux441812980269.tar
 cd /home/linux
 
 # Jalankan instalasi
-sudo .tmbc install
+sudo .tmxbc install
+
+
+
